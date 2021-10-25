@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nicoladonaldson
 - 👀 I’m interested in improving experiences for people
 - 🌱 I’m currently working on vaxx.nz
-- 💞️ I’m looking to collaborate on a part-time wfh role
+- 💞️ I’m looking to collaborate on a wfh role or hybrid role in Auckland, NZ
 - 📫 Reach me at nicola.donaldson.ux@gmail.com
 
 <!---
